@@ -44,7 +44,7 @@ class RegionCounter(BaseSolution):
             "name": "Default Region",
             "polygon": None,
             "counts": 0,
-            "region_color": (255, 255, 255),
+            "region_color": (0, 255, 0),
             "text_color": (0, 0, 0),
         }
         self.region_counts = {}
